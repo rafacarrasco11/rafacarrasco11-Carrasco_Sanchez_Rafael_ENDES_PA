@@ -1,0 +1,50 @@
+17  git clone https://github.com/rafacarrasco11/rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA.git
+   18  ls
+   19  cd rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA/.git/
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd 
+   24  ls
+   25  de Desktop/
+   26  ls
+   27  cd D
+   28  cd Desktop/
+   29  ls
+   30  cd prueba/|
+   31  cd prueba/
+   32  ls
+   33  ls -la
+   34  cd rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA/.git/
+   35  ls -la
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd ..
+   40  ls
+   41  cd rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA/
+   42  ls
+   43  git remote -v
+   44  git pull -r upstream MASTER
+   45  git pull -r upstream master
+   46  git remote add upstream https://github.com/rafacarrasco11/rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA.git
+   47  git remote -v
+   48  git pull -r upstream master
+   49  git status
+   50  git log
+   51  ls
+   52  nano prueba.txt
+   53  git sastus
+   54  git status
+   55  git add prueba.txt 
+   56  git status
+   57  git commit prueba.txt -m "Modificado desde maquina virtual"
+   58  git commit -m "Modificado desde maquina virtual"
+   59  git config --globar user.email "rafathegamer@gmail.com"
+   60  git config --global user.email "rafathegamer@gmail.com"
+   61  git config --global user.name jolum
+   62  git commit -m "Modificado desde maquina virtual"
+   63  git push
+   64  history
+mint@mint:~/Desktop/prueba/rafacarrasco11-Carrasco_Sanchez_Rafael_ENDES_PA$ 
+
